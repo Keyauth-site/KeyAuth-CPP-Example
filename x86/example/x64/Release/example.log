@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  128 of 2463 functions ( 5.2%) were compiled, the rest were copied from previous compilation.
+    54 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\Administrator\Documents\New folder\main\x86\x64\Release\example.exe
