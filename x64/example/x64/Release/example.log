@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Administrator\Documents\GitHub\x64\protection.h(66,10): warning C4305: 'return': truncation from 'int' to 'bool'
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  135 of 398 functions (33.9%) were compiled, the rest were copied from previous compilation.
+    86 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\Administrator\Documents\GitHub\x64\x64\Release\example.exe
